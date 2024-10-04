@@ -2,7 +2,9 @@ Récap -
 https://docs.google.com/document/d/1ijh1KQospoU7KlAP3bfymnEFQndvdsloI2w5JJ344Co/edit?usp=sharing
 
 Diagrammes UML -
-https://drive.google.com/file/d/1t-yyKeN4cL8Tkcob3KZL9jsTv64CAddE/view?usp=sharing
+(Données)  https://drive.google.com/file/d/1t-yyKeN4cL8Tkcob3KZL9jsTv64CAddE/view?usp=sharing
+(Séquence) ça arrive fort
+(Séquence : tuto) https://fr.wikipedia.org/wiki/Diagramme_de_s%C3%A9quence
 
 Structures de données -
 https://docs.google.com/document/d/1aw528ckAaqo05TQBPFkbHnKSvVUswP4uSZMJTDcmpgs/edit?usp=sharing
