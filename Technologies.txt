@@ -4,6 +4,7 @@ https://docs.google.com/document/d/1ijh1KQospoU7KlAP3bfymnEFQndvdsloI2w5JJ344Co/
 Diagrammes UML -
 (Données)         https://drive.google.com/file/d/1t-yyKeN4cL8Tkcob3KZL9jsTv64CAddE/view?usp=sharing
 (États)           https://drive.google.com/file/d/1-oigeMzrqgdJGuk1dsgtNcXwhpw-n7OM/view?usp=sharing
+(États : tuto)    https://www.researchgate.net/profile/Georges-Habchi/publication/273901611/figure/fig2/AS:449652022616065@1484216804103/Graphe-detat-dune-ressource-au-troisieme-niveau-dabstraction.png
 (Séquence)        https://drive.google.com/file/d/1Ec6ojMTGEmCHubY9B5MF2wIrY_iBK1_-/view?usp=sharing
 (Séquence : tuto) https://fr.wikipedia.org/wiki/Diagramme_de_séquence
 
