@@ -5,7 +5,8 @@ Diagrammes UML -
 (Données)         https://drive.google.com/file/d/1t-yyKeN4cL8Tkcob3KZL9jsTv64CAddE/view?usp=sharing
 (États)           https://drive.google.com/file/d/1-oigeMzrqgdJGuk1dsgtNcXwhpw-n7OM/view?usp=sharing
 (Séquence)        https://drive.google.com/file/d/1Ec6ojMTGEmCHubY9B5MF2wIrY_iBK1_-/view?usp=sharing
-
+(Cas d'utilisation)        https://drive.google.com/file/d/1Kk_lZ7Mtu7Y0KUL_kF1QrWG3aKYmDJZu/view?usp=sharing
+(Classe)          https://drive.google.com/file/d/1fPDt4E1mL4kt93f14e2jcWjKllLpj95A/view?usp=sharing
 
 Structures de données -
 https://docs.google.com/document/d/1aw528ckAaqo05TQBPFkbHnKSvVUswP4uSZMJTDcmpgs/edit?usp=sharing
